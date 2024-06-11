@@ -1,13 +1,7 @@
 # Wasteland
 
-Factorio PvP scenario for the ANYMIX Wasteland server.
-
-Can your town survive against biters and other players? Play alone or join a town.
-
-# Contribution guide
-
-Check on our [Discord](http://wasteland-discord.fun/)
+Factorio PvP scenario based on Comfy and Blub's work.
 
 # Credits
 
-Thanks COMFY team for the original idea and implementation
+Thanks COMFY team for the original idea and implementation and for Blubfisch's work on his own version.
